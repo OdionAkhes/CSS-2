@@ -1,0 +1,40 @@
+
+body {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+.ordered {
+    background-color: cornsilk;
+}
+
+#likes {
+    background-color: burlywood;
+}
+
+.unordered {
+    background-color: antiquewhite;
+}
+
+#dislikes {
+    background-color:coral;
+}
+
+.list { 
+    color:aliceblue;
+    margin: 30px;
+    padding: 20px;
+}
+
+#list2 {
+    color: brown;
+    margin: 40px;
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+        color: brown;
+        background-color:bisque;
+        
+}
